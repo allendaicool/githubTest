@@ -5,6 +5,8 @@
  * in the testfile to keep up
  * with prinfo structure in kernel
  */
+ 
+ haha
 struct prinfo {
 	pid_t parent_pid;
 	pid_t pid;
